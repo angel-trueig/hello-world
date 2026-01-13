@@ -6,3 +6,4 @@ console.log(greet("World"));
 function farewell =>{
     return "Goodbye!";
 }
+console.log("hi")
